@@ -1,0 +1,2 @@
+# automatedTests
+Automated test project
